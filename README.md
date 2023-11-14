@@ -4,6 +4,9 @@ Soy José Esteva, estudiante de ingeniería en nanotecnología y apasionado de l
 📫 contacto: zbrm34@gmail.com
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=joscor34&show_icons=true&theme=transparent)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josecor34&hide_progress=true)
 <!--
 **joscor34/joscor34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
