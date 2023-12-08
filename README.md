@@ -1,6 +1,6 @@
 ## ¡Hola! 👋
 
-Soy José Esteva, estudiante de ingeniería en nanotecnología y apasionado de la divulgación científica
+Soy José Esteva, ingeniero en nanotecnología y apasionado de la divulgación científica
 
 📫 contacto: zbrm34@gmail.com
 
