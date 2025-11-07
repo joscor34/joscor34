@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola! 👋 Soy José Esteva</h1>
 
 <p align="center">
-  👨‍🔬 Ingeniero en Nanotecnología · MEMS Specialist · 🧑‍💻 Desarrollador Full Stack · 📢 Divulgador científico
+  👨‍🔬 Nanotechnology Engineer · MEMS Specialist · 🧑‍💻 Full Stack Dev
 </p>
 
 <p align="center">
@@ -11,8 +11,34 @@
 </p>
 
 ---
+## 📊 GitHub Stats
 
-## 🧬 Sobre mí
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joscor34&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joscor34&show_icons=true&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=joscor34&theme=algolia&no-bg=true&no-frame=true&row=1&column=6" alt="Top Langs" />
+</p>
+
+---
+
+- Ingeniero en **nanotecnología** enfocado en nanomateriales, sensores y MEMS  
+- Desarrollador **full stack** para plataformas educativas, IoT y análisis de datos  
+- Me gusta unir **ciencia, hardware y software** para proyectos con impacto real  
+
+📫 **Contacto:** zbrm34@gmail.com  
+
+---
+
+<details>
+  <summary>👇 Ver más sobre mí</summary>
+
+## 🧬 Enfoque profesional
 
 Soy **ingeniero en nanotecnología** con énfasis en:
 
@@ -78,28 +104,5 @@ Me gusta conectar el mundo **nano** con el mundo **software**: desde simular y a
 - Docker
 - Linux, Zsh, Powerlevel10k
 
----
 
-## 📊 Stats interesantes
-
-### 💻 Actividad en GitHub
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=joscor34&show_icons=true&theme=tokyonight&hide_title=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=joscor34&theme=tokyonight&hide_border=true)
-
-### 📚 Lenguajes más usados
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joscor34&show_icons=true&layout=compact&theme=tokyonight)
-
-### 🏆 Trofeos
-
-![trophy](https://github-profile-trophy.vercel.app/?username=joscor34&theme=algolia&no-bg=true&no-frame=true&row=1&column=6)
-
----
-
-## 📫 Contacto
-
-- 📧 **Correo:** zbrm34@gmail.com  
-
-Si te interesa colaborar en proyectos de **nanotecnología aplicada, MEMS, IoT, data engineering o educación en programación**, mándame un mensaje 😉
+</details>
