@@ -66,10 +66,10 @@ Me gusta conectar el mundo **nano** con el mundo **software**: desde simular y a
 ### 🧑‍💻 Lenguajes
 - **Python**
 - JavaScript, TypeScript
-- PHP
 - Java
 - Dart
-- SQL (PostgreSQL, SQLite), algo de C/C++ para microcontroladores
+- SQL (PostgreSQL, SQLite)
+- C/C++ para microcontroladores
 
 ### 🌐 Frontend
 - **Vue 3**, Nuxt.js, React
@@ -79,7 +79,6 @@ Me gusta conectar el mundo **nano** con el mundo **software**: desde simular y a
 ### 🧩 Backend & APIs
 - **Node.js** (Express, Sails)
 - **Python**: Flask, Flask-RESTful, FastAPI
-- Laravel (PHP)
 - Diseño e integración de **APIs REST**
 
 ### 🗄️ Bases de datos & Data
