@@ -20,7 +20,7 @@
 ## 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,django,flask,fastapi,js,ts,vue,nuxtjs,react,astro,nodejs,flutter,java,php,gcp,postgres,mysql,mongodb,supabase,redis,docker,aws,terraform,linux,git,githubactions,postman,vscode,bash,raspberrypi&perline=10" />
+  <img src="https://skillicons.dev/icons?i=py,django,flask,fastapi,js,ts,vue,nuxtjs,react,astro,nodejs,flutter,java,spring,gcp,postgres,mysql,mongodb,supabase,redis,docker,aws,terraform,linux,git,githubactions,postman,vscode,bash,raspberrypi&perline=10" />
 </p>
 
 ---
