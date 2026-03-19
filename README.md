@@ -3,6 +3,11 @@
 <p align="center">
   🧠 Nanotechnology Engineer · ⚙️ MEMS & Sensors · 💻 Full Stack Developer
 </p>
+<p align="center">
+  <a href="mailto:zbrm34@gmail.com">
+    <img src="https://img.shields.io/badge/Email-zbrm34%40gmail.com-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=joscor34&label=Profile%20Views&color=4f46e5&style=for-the-badge" />
@@ -35,16 +40,6 @@
 - 📡 Sistemas IoT y microcontroladores  
 - 🔐 Ciberseguridad y análisis de sistemas  
 - 📈 Procesamiento y análisis de datos  
-
----
-
-## 📫 Contacto
-
-<p align="center">
-  <a href="mailto:zbrm34@gmail.com">
-    <img src="https://img.shields.io/badge/Email-zbrm34%40gmail.com-red?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
 
 ---
 
