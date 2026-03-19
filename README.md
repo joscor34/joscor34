@@ -1,37 +1,50 @@
-<h1 align="center">¡Hola! 👋 Soy José Esteva</h1>
+<h1 align="center">👋 Hola, soy José Esteva</h1>
 
 <p align="center">
-  👨‍🔬 Nanotechnology Engineer · MEMS Specialist · 🧑‍💻 Full Stack Dev
+  🧠 Nanotechnology Engineer · ⚙️ MEMS & Sensors · 💻 Full Stack Developer
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=joscor34&label=Visitas%20al%20perfil&color=4f46e5&style=for-the-badge" alt="Visitas al perfil" />
-  <img src="https://komarev.com/ghpvc/?username=joscor34&label=Nanotech%20Engineer&color=0ea5e9&style=for-the-badge" alt="Nanotech Engineer" />
-  <img src="https://komarev.com/ghpvc/?username=joscor34&label=Full%20Stack%20Dev&color=7c3aed&style=for-the-badge" alt="Full Stack Dev" />
+  <img src="https://komarev.com/ghpvc/?username=joscor34&label=Profile%20Views&color=4f46e5&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Nanotech-Engineer-0ea5e9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FullStack-Developer-7c3aed?style=for-the-badge" />
 </p>
 
 ---
+
+## 🧠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,django,flask,fastapi,js,ts,vue,nuxtjs,react,astro,nodejs,flutter,java,php,gcp,postgres,mysql,mongodb,supabase,redis,docker,aws,terraform,linux,git,githubactions,postman,vscode,bash,raspberrypi&perline=10" />
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joscor34&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joscor34&show_icons=true&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=joscor34&theme=algolia&no-bg=true&no-frame=true&row=1&column=6" alt="Top Langs" />
+  <img src="https://streak-stats.demolab.com?user=joscor34&theme=tokyonight&hide_border=false" />
+  <br/>
 </p>
 
 ---
 
-- Ingeniero en **nanotecnología** enfocado en nanomateriales, sensores y MEMS  
-- Desarrollador **full stack** para plataformas educativas, IoT y análisis de datos  
-- Me gusta unir **ciencia, hardware y software** para proyectos con impacto real  
+## 🧩 En lo que trabajo
+- 🏫 Plataformas educativas (EdTech) y automatización académica  
+- ☁️ Arquitecturas cloud (AWS, Docker, CI/CD)  
+- 📡 Sistemas IoT y microcontroladores  
+- 🔐 Ciberseguridad y análisis de sistemas  
+- 📈 Procesamiento y análisis de datos  
 
-📫 **Contacto:** zbrm34@gmail.com  
+---
+
+## 📫 Contacto
+
+<p align="center">
+  <a href="mailto:zbrm34@gmail.com">
+    <img src="https://img.shields.io/badge/Email-zbrm34%40gmail.com-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
 ---
 
